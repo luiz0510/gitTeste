@@ -30,4 +30,6 @@
    2. ionic
    3. nativescript    
   
-  
+  ## Como rodar o projeto de funcoes matematicas
+  No terminal execute o comando: 
+  ```node testFunction.js```
